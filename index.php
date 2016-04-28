@@ -1,1 +1,1 @@
-<?php include_once "floats.html"); ?>
+<?php include_once "index.html"); ?>
