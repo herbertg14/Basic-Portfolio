@@ -1,5 +1,84 @@
-/*body {
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #efeee7;
+/*	font-size: 18px;*/
+	line-height: 150%;
+	font-family: "Georgia",Times New Roman,Times,serif;
+	color: #333333;
+}
+header {
+	background: #4aaaa5;
+}
+h1 {
+	background:#4aaaa5;
+	padding: 20px 0;
+	color: #ffffff;
+	margin: 0;
+	font-size: 28px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+h2 {
 	font-size: 24px;
-	line-height: 32px;
-	background: #999;
+}
+
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+#name{
+	width: 70%;
+	float: left;
+}
+
+#links{
+	width: 30%;
+	color: #ffffff;
+}
+#main-bio,
+#contact-info,
+#bio-image {
+	float: left;
+}
+
+#profilePic {
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+}
+
+#facebookPic {
+	width: 50px;
+	height: 50px;
+}
+
+/*#facebookPic,
+#instagramPic,
+#githubPic {
+	width: 30px;
+	height:30px;
+
+}*/
+
+#main-bio {
+	width: 70%;
+}
+#contact-info {
+	width: 30%;
+}
+
+footer{
+	width: 100%;
+	float: left;
+	text-align: center;
+	background-color: #666666;
+	color: #777777;
+}
+
+/*#bio-image {
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
 }*/
